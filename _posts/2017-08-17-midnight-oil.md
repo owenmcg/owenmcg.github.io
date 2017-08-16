@@ -2,7 +2,6 @@
 layout: post
 cover: 'assets/images/cover1.jpg'
 title: Midnight Oil
-date:   2017-08-17 10:18:00
 tags: news
 subclass: 'post tag-test tag-content'
 categories: 'ian'
