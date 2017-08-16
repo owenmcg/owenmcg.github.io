@@ -1,16 +1,16 @@
 ---
 layout: post
 cover: 'assets/images/cover7.jpg'
-title: The Businessman & the fisherman
+title: Welcome to Wicklow Boardgamers
 date:   2014-08-12 10:18:00
-tags: fables fiction
+tags: news
 subclass: 'post tag-test tag-content'
-categories: 'casper'
+categories: 'owen'
 navigation: True
 logo: 'assets/images/ghost.png'
 ---
 
-An American businessman took a vacation to a small coastal Mexican village on doctor’s orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pier to clear his head. A small boat with just one fisherman had docked, and inside the boat were several large yellowfin tuna. The American complimented the Mexican on the quality of his fish.
+Thanks for taking the time to visit our website. Who are Wicklow Boardgamers? We are a bunch of board game enthusiasts who just want to share our love of board games every second Tuesday.
 
 “How long did it take you to catch them?” the American asked.
 
