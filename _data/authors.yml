@@ -1,0 +1,16 @@
+owen:
+  nickname: 'owen'
+  name: "Owen McGauley"
+  bio: 'Designer, board gamer and human being.'
+  location: 'Ireland'
+  image: 'assets/images/owen-mug.jpg'
+  url: 'http://owenmcg.com'
+  short_url: 'owenmcg.com'
+ian:
+  nickname: 'ian'
+  name: "Ian Devlin"
+  bio: 'Failed musician, geeky dad.'
+  location: 'Ireland'
+  image: 'assets/images/ian-mug.jpg'
+  url: 'http://www.totallybanjaxed.com'
+  short_url: 'www.totallybanjaxed.com'

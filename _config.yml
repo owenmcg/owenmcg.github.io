@@ -10,24 +10,9 @@ language: 'en-uk'
 name: 'Wicklow Meeples'
 description: "Board Gaming Club"
 
-# Author's info
-author: 'Owen McGauley'
-# edit 'categories' in the front matter of every post to match this username
-nickname: owen
-bio: 'Designer, board gamer and human being.'
-location: 'Ireland'
-url: 'http://owenmcg.com'
-image: 'assets/images/owen-mug.jpg'
+# this author is master of authors
+author: "owen"
 
-author: 'Ian Devlin'
-# edit 'categories' in the front matter of every post to match this username
-nickname: ian
-bio: 'Human.'
-location: 'Ireland'
-url: 'http://totallybanjaxed.com'
-image: 'assets/images/casper.png'
-
-short_url: 'http://owenmcg.com'
 google_analytics: UA-623896-1
 # disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
