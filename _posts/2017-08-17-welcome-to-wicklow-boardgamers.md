@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/cover7.jpg'
 title: Welcome to Wicklow Boardgamers
-date:   2014-08-12 10:18:00
+date:   2017-08-17 10:18:00
 tags: news
 subclass: 'post tag-test tag-content'
 categories: 'owen'
