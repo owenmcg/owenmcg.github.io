@@ -16,7 +16,7 @@ author: "owen"
 google_analytics: UA-623896-1
 # disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: http://wicklowmeeples.com/
+baseurl: http://owenmcg.github.io/
 
 # Permalinks
 permalink: /:title
