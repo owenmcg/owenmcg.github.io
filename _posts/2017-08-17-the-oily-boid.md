@@ -4,7 +4,7 @@ cover: 'assets/images/cover2.jpg'
 title: The Oily Boid
 date: 2017-08-17 11:01:00
 tags: news
-subclass: 'post tag-test tag-content'
+subclass: 'post tag-test tag-content tag-news'
 categories: 'owen'
 navigation: True
 logo: 'assets/images/ghost.png'
