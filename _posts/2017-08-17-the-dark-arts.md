@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/cover2.jpg'
 title: The Dark Arts
-date: 2017-08-17 11:01:00
+date: 2017-08-17 18:03:00
 tags: news
 subclass: 'post tag-test tag-content'
 categories: 'ian'
