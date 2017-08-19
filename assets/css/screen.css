@@ -2068,6 +2068,9 @@ body:not(.post-template) .post-title {
     color: #eee;
     margin-top: -5rem;
     padding-top: 1.5em;
+    -webkit-box-shadow: 0px -2px 21px 1px rgba(0,0,0,0.68);
+-moz-box-shadow: 0px -2px 21px 1px rgba(0,0,0,0.68);
+box-shadow: 0px -2px 21px 1px rgba(0,0,0,0.68);
 }
 
     .content.welcome h2 {
