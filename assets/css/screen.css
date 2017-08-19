@@ -2059,6 +2059,17 @@ body:not(.post-template) .post-title {
     }
 }
 
+/* =====================================================================
+14. My shit that hopefully doesn't fuck everything up!
+   ===================================================================== */
+
+   .content.welcome {
+    background: #344448;
+    color: #eee;
+    margin-top: -5rem;
+    padding-top: 1.5em;
+}
+
 
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff
