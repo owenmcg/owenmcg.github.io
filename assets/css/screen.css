@@ -2070,6 +2070,10 @@ body:not(.post-template) .post-title {
     padding-top: 1.5em;
 }
 
+    .content.welcome h2 {
+        color: #eee;
+    }
+
 
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff
