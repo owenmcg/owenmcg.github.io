@@ -1205,6 +1205,9 @@ body:not(.post-template) .post-title {
 .post-head.main-header {
     height: 65vh;
     min-height: 180px;
+    -webkit-box-shadow: inset 0px -24px 60px -12px rgba(0,0,0,1);
+-moz-box-shadow: inset 0px -24px 60px -12px rgba(0,0,0,1);
+box-shadow: inset 0px -24px 60px -12px rgba(0,0,0,1);
 }
 
 .no-cover.post-head.main-header {
@@ -2077,7 +2080,7 @@ box-shadow: 0px -2px 21px 1px rgba(0,0,0,0.68);
         color: #eee;
     }
 
-   
+
 
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff
