@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 cover: 'assets/images/cover2.jpg'
 title: About
-date:   2017-08-17 10:18:00
 class: 'post'
 navigation: True
 logo: 'assets/images/ghost.png'
