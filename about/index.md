@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: post
+cover: 'assets/images/cover2.jpg'
 title: About
 class: 'post'
 navigation: True
@@ -7,8 +8,8 @@ logo: 'assets/images/ghost.png'
 current: about
 ---
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
+Who are Wicklow Meeples? We are a bunch of board game enthusiasts who are looking for any excuse to play board games more often. So we decided to start running an open board games evening, to introduce new players to the marvel of modern board games and give grizzled veterans another excuse to get to the table.
 
-We use this for testing and for reference!
+We are currently running our board game evenings in the upstairs bar in Phil Healy's, Wicklow Town. Our inaugural event is on Tuesday the 3rd of October and we will be running every second Tuesday from the on (17th Oct, 31st Oct etc.).
 
-If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+Everyone is welcome and we actively encourage new players to come an try out some excellent gateway games. If you have any queries just contact us at wicklowmeeples@gmail.com.
