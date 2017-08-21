@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: 'assets/images/cover4.jpg'
-title: Wicklow Meeples Inaugural Games Night
+title: 3rd October - Inaugural Games Night
 date:   2017-08-21 10:18:00
 tags: news
 subclass: 'post tag-test tag-content'
