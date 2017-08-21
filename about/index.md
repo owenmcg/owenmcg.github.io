@@ -1,7 +1,7 @@
 ---
 layout: page
 cover: 'assets/images/cover3.jpg'
-title: About
+title: Who are Wicklow Meeples?
 class: 'post'
 navigation: True
 logo: 'assets/images/ghost.png'
