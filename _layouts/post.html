@@ -56,7 +56,7 @@ class: 'post-template'
         {% for category in page.categories %}
             {% if site.data.authors[category].image %}
             <figure class="author-image">
-                <a class="img" href="<!--{{ site.baseurl }}author/{{ site.data.authors[category].nickname }}-->" style="background-image: url({{ site.data.authors[category].image }})">
+                <a class="img" href="#" style="background-image: url({{ site.data.authors[category].image }})">
                     <span class="hidden">{{ site.data.authors[category].nickname }}'s 사진</span>
                 </a>
             </figure>
