@@ -1,6 +1,6 @@
 ---
 layout: page
-cover: 'assets/images/cover2.jpg'
+cover: 'assets/images/cover3.jpg'
 title: About
 class: 'post'
 navigation: True
