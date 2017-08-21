@@ -1205,6 +1205,9 @@ body:not(.post-template) .post-title {
 .post-head.main-header {
     height: 65vh;
     min-height: 180px;
+    -webkit-box-shadow: inset 0px -24px 60px -12px rgba(0,0,0,1);
+-moz-box-shadow: inset 0px -24px 60px -12px rgba(0,0,0,1);
+box-shadow: inset 0px -24px 60px -12px rgba(0,0,0,1);
 }
 
 .no-cover.post-head.main-header {
@@ -2058,6 +2061,25 @@ body:not(.post-template) .post-title {
         transform: translateY(-5px) rotate(-90deg);
     }
 }
+
+/* =====================================================================
+14. My shit that hopefully doesn't fuck everything up!
+   ===================================================================== */
+
+   .content.welcome {
+    background: #344448;
+    color: #eee;
+    margin-top: -5rem;
+    padding-top: 1.5em;
+    -webkit-box-shadow: 0px -2px 21px 1px rgba(0,0,0,0.68);
+-moz-box-shadow: 0px -2px 21px 1px rgba(0,0,0,0.68);
+box-shadow: 0px -2px 21px 1px rgba(0,0,0,0.68);
+}
+
+    .content.welcome h2 {
+        color: #eee;
+    }
+
 
 
 /* ==========================================================================
