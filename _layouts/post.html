@@ -56,14 +56,14 @@ class: 'post-template'
         {% for category in page.categories %}
             {% if site.data.authors[category].image %}
             <figure class="author-image">
-                <a class="img" href="{{ site.baseurl }}author/{{ site.data.authors[category].nickname }}" style="background-image: url({{ site.data.authors[category].image }})">
+                <a class="img" href="<!--{{ site.baseurl }}author/{{ site.data.authors[category].nickname }}-->" style="background-image: url({{ site.data.authors[category].image }})">
                     <span class="hidden">{{ site.data.authors[category].nickname }}'s 사진</span>
                 </a>
             </figure>
             {% endif %}
 
             <section class="author">
-                <h4><a href="{{ site.baseurl }}author/{{ site.data.authors[category].nickname }}">{{ site.data.authors[category].nickname }}</a></h4>
+                <h4><!--<a href="{{ site.baseurl }}author/{{ site.data.authors[category].nickname }}">-->{{ site.data.authors[category].nickname }}<!--</a>--></h4>
 
                 {% if site.data.authors[category].bio %}
                 <p> {{ site.data.authors[category].bio }}</p>
