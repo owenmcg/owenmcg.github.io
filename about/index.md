@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 cover: 'assets/images/cover3.jpg'
 title: Who are Wicklow Meeples?
 class: 'post'
