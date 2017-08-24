@@ -2,6 +2,7 @@
 layout: post
 cover: 'assets/images/cover3.jpg'
 title: Who are Wicklow Meeples?
+date:   2017-08-21 10:18:00
 subclass: 'post'
 navigation: True
 logo: 'assets/images/ghost.png'
