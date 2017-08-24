@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/cover3.jpg'
 title: Who are Wicklow Meeples?
-class: 'post'
+subclass: 'post'
 navigation: True
 logo: 'assets/images/ghost.png'
 current: about
