@@ -706,6 +706,7 @@ body.nav-opened .nav {
     border-radius: 3px;
     background: #fff;
     transition: all ease 0.3s;
+	display: none;
 }
 .subscribe-button:before {
     font-size: 9px;
@@ -777,7 +778,7 @@ body.nav-opened .nav {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     display: block;
-    height: 38px;
+    height: 68px;
     padding: 1px 0 5px 0;
     width: auto;
 }
