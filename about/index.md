@@ -14,3 +14,5 @@ We are a bunch of board game enthusiasts who are looking for any excuse to play 
 We are currently running our board game evenings in the upstairs bar in Phil Healy's, Wicklow Town every second Tuesday ([check out the date of our next board game night](http://www.wicklowmeeples.com/#welcome)).
 
 Everyone is welcome and we actively encourage new players to come an try out some excellent gateway games. If you have any queries just contact us at wicklowmeeples@gmail.com.
+
+!(http://www.wicklowmeeples.com/assets/wicklow-meeples-logo-500.png)
