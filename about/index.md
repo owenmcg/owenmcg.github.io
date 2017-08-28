@@ -15,4 +15,4 @@ We are currently running our board game evenings in the upstairs bar in Phil Hea
 
 Everyone is welcome and we actively encourage new players to come an try out some excellent gateway games. If you have any queries just contact us at wicklowmeeples@gmail.com.
 
-!(http://www.wicklowmeeples.com/assets/wicklow-meeples-logo-500.png)
+![Wicklow Meeples Logo](http://www.wicklowmeeples.com/assets/wicklow-meeples-logo-500.png)
