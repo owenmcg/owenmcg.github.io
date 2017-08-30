@@ -21,4 +21,5 @@ To quickly recap:
 - 7.30pm - 11pm
 - €5 Pay to Play
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2402.1893667488052!2d-6.04420068381808!3d52.98099567990411!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4867b0cb0b92e50f%3A0xc125cf02d3ab1ff3!2sThe+Bridge+Tavern!5e0!3m2!1sen!2sie!4v1504097301191" width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2402.1893667488052!2d-6.04420068381808!3d52.98099567990411!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4867b0cb0b92e50f%3A0xc125cf02d3ab1ff3!2sThe+Bridge+Tavern!5e0!3m2!1sen!2sie!4v1504097301191" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
