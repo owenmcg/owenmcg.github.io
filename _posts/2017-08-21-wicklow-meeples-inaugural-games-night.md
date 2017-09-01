@@ -10,7 +10,7 @@ navigation: True
 logo: 'assets/images/ghost.png'
 ---
 
-It is with great pleasure that I announce that the very first Wicklow Meeples Board Games Club open board gaming night will take place on the 3rd of October. We are delighted to be hosting our board gaming nights in Phil Healy's, Wicklow Town.
+I am delighted to announce that the very first Wicklow Meeples open board gaming night will take place on the 3rd of October. We are delighted to be hosting our board gaming nights in Phil Healy's, Wicklow Town.
 
 We will be situated in the restaurant area from 7.30pm until 11pm. Admission is free, so just bring yourself! If you think you can make it just let us know on our Meetup page or our [Facebook page](http://facebook.com/wicklowmeeples). And feel free to share this with any family and/or friends who you think would be interested.
 
