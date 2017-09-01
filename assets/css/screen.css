@@ -2085,7 +2085,13 @@ box-shadow: 0px -2px 21px 1px rgba(0,0,0,0.68);
         color: #eee;
     }
 
+    .welcome a:link, .welcome a:active, .welcome a:visited {
+        color: #eee;
+    }
 
+    .welcome a:hover {
+        text-decoration: none;
+    }
 
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff
