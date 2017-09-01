@@ -469,6 +469,10 @@ margin on the iframe, cause it breaks stuff. */
     margin: 0 auto;
 }
 
+.inner img {
+		width: 100%;
+}
+
 /* Centres vertically yo. (IE8+) */
 .vertical {
     display: table-cell;
