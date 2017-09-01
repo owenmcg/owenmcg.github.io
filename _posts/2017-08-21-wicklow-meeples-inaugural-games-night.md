@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/cover4.jpg'
 title: 3rd October - Inaugural Games Night
-date:   2017-08-21 10:18:00
+date:   2017-09-2 10:18:00
 tags: news
 subclass: 'post tag-test tag-content'
 categories: 'owen'
