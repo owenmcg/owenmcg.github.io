@@ -2078,7 +2078,7 @@ box-shadow: inset 0px -24px 60px -12px rgba(0,0,0,1);
     padding-top: 1.5em;
     -webkit-box-shadow: 0px -2px 21px 1px rgba(0,0,0,0.68);
 -moz-box-shadow: 0px -2px 21px 1px rgba(0,0,0,0.68);
-box-shadow: 0px -2px 21px 1px rgba(0,0,0,0.68);
+box-shadow: 0px -2px 21px 1px rgba(0,0,0,0.68), inset 0px -60px 133px -31px rgba(0,0,0,0.15);
 }
 
     .content.welcome h2 {
