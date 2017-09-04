@@ -5,7 +5,7 @@ title: Getting hooked on games!
 date:   2017-09-4 23:18:00
 tags: news
 subclass: 'post tag-test tag-content'
-categories: 'ian'
+categories: 'Ian'
 navigation: True
 logo: 'assets/images/ghost.png'
 ---
