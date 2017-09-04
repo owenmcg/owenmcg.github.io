@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/cover4.jpg'
+cover: 'assets/images/citadels.jpg'
 title: Getting hooked on games!
 date:   2017-09-4 23:18:00
 tags: news
