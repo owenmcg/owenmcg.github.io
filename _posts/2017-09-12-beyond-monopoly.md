@@ -16,7 +16,7 @@ What if I told you that board games have since moved beyond Monopoly. That they 
 
 ### What are these games?
 
-I'm glad you asked. They are games like Pandemic, where you collaborate with your fellow players to stop a deadly virus (or four) from consuming the human race! Or Flamme Rouge, where you compete as a team of cyclists (Tour de France style) to see who can put their sprinter in the best position to burst home and take first place. Or The Resistance where one of you is a traitor, trying to secretly sabotage every mission without being caught by the other players. There is a whole world of board games out there that have likely never heard of (I know I hadn't).
+I'm glad you asked. They are games like Pandemic, where you collaborate with your fellow players to stop a deadly virus (or four) from consuming the human race! Or Flamme Rouge, where you compete as a team of cyclists (Tour de France style) to see who can put their sprinter in the best position to burst home and take first place. Or The Resistance where one of you is a traitor, trying to secretly sabotage every mission without being caught by the other players. There is a whole world of board games out there that you have likely never heard of (I know I hadn't).
 
 ### Where can I play these games?
 
