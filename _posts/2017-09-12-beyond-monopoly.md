@@ -14,11 +14,11 @@ Most of us have sat around a table at some point in our lives and become power-m
 
 What if I told you that board games have since moved beyond Monopoly. That they have become nuanced, engaging, social, tactical, treacherous, ridiculous and just down right fun. There has been a steady board game renaissance building over the last 20 years and it has gained huge momentum in the last 10-12 in particular.
 
-## What are these games?
+### What are these games?
 
 I'm glad you asked. They are games like Pandemic, where you collaborate with your fellow players to stop a deadly virus (or four) from consuming the human race! Or Flamme Rouge, where you compete as a team of cyclists (Tour de France style) to see who can put their sprinter in the best position to burst home and take first place. Or The Resistance where one of you is a traitor, trying to secretly sabotage every mission without being caught by the other players. There is a whole world of board games out there that have likely never heard of (I know I hadn't).
 
-## Where can I play these games?
+### Where can I play these games?
 
 Another excellent question. We will have all of the above mentioned games and many, many more at the [Wicklow Meeples board game evenings](https://www.facebook.com/wicklowmeeples) in Phil Healy's pub every second Tuesday (starting on the 3rd of October). There will be four of us Meeples there on the night to help get you set up and ready to game for the night.
 
