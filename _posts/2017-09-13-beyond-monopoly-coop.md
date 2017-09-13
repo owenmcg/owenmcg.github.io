@@ -10,7 +10,7 @@ navigation: True
 logo: 'assets/images/ghost.png'
 ---
 
-This is the second post in our 'Beyond Monopoly' series and we are going to focus on co-operative (co-op) games in this post. Co-op games see the players work together as a team to overcome a common goal. The only villain in a co-op game is the game itself. Some of my favourite games are co-ops; there is a palpable joy in overcoming the seemingly insurmountable task in front of you! In this post I will be listing a number of games that will be available [to play at our board game evenings](http://www.wicklowmeeples.com/#welcome).
+This is the second post in our 'Beyond Monopoly' series and we are going to focus on co-operative (co-op) games in this post. Co-op games see the players work together as a team to overcome a common goal. The only villain in a co-op game is the game itself. Some of my favourite games are co-ops; there is a palpable joy in overcoming the seemingly insurmountable task in front of you! In this post I will be listing a number of games that will be available [to play at our board game evenings](https://www.facebook.com/wicklowmeeples).
 
 ### Pandemic
 Pandemic sets the players up as an elite disease control team battling to keep 4 deadly diseases at bay. Working against the clock you must travel the globe searching for a cure amid outbreaks and epidemics. Varied roles see players having to work together to ensure the future of the human race.
@@ -29,4 +29,4 @@ In Forbidden Island a team of 2-4 players take on the roles of intrepid explorer
 
 That's a very quick run through of some of the co-op games that we will be running at our board game evenings. Keep an eye out for the next post in this series that will focus on Party games.
 
-If you have any queries or game requests just contact us at wicklowmeeples@gmail.com or message us on Facebook/Meetup.
+If you have any queries or game requests just contact us at [wicklowmeeples@gmail.com](mailto:wicklowmeeples@gmail.com) or message us on [Facebook](https://www.facebook.com/wicklowmeeples)/[Meetup](https://www.meetup.com/Board-Game-Evening-Wicklow-Meeples/).
