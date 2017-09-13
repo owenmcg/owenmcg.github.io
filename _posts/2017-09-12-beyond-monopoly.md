@@ -26,6 +26,4 @@ So if this sounds up your street why not let us know you'll be coming. Just visi
 
 Thanks for reading and hope to see you there.
 
-Owen.
-
 Oh, and keep an eye out for the extended 'Beyond Monopoly' series of posts, where we will run through some of the games on offer on the night in more detail.
