@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/cover5b.jpg'
 title: 'Beyond Monopoly - Gateway'
-date:   2017-09-13 23:18:00
+date:   2017-09-14 23:18:00
 tags: news
 subclass: 'post tag-test tag-content'
 categories: 'owen'
