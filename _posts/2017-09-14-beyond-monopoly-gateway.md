@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: 'assets/images/cover5b.jpg'
-title: 'Beyond Monopoly - Gateway'
+title: 'Beyond Monopoly - Gateway Games'
 date:   2017-09-14 23:18:00
 tags: news
 subclass: 'post tag-test tag-content'
