@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/cover4.jpg'
 title: 17th October - Board Game Evening
-date:   2017-09-16 00:18:00
+date:   2017-10-09 00:18:00
 tags: news
 subclass: 'post tag-test tag-content'
 categories: 'owen'
