@@ -1,8 +1,8 @@
 ---
 layout: post
 cover: 'assets/images/cover4.jpg'
-title: 17th October - Board Game Evening
-date:   2017-10-09 00:18:00
+title: 7th November - Board Game Evening
+date:   2017-10-26 00:18:00
 tags: news
 subclass: 'post tag-test tag-content'
 categories: 'owen'
@@ -10,14 +10,14 @@ navigation: True
 logo: 'assets/images/ghost.png'
 ---
 
-We are running our next Board Game Evening on the 17th of October in the wonderful surroundings of The Bridge Tavern on Bridge Street in Wicklow Town.
+We are running our next Board Game Evening on the 7th of November in the wonderful surroundings of The Bridge Tavern on Bridge Street in Wicklow Town.
 
-We will be situated in the newly refurbished function room upstairs from 7.30pm until 11pm. We'll bring the games, so you just bring yourself.  There's a small charge of €5, not bad for an entire night's gaming!  This covers the venue, replacing damaged/lost components and any remainder goes into new games for the club.  If you think you can make it just let us know on our [Meetup page](https://www.meetup.com/Board-Game-Evening-Wicklow-Meeples/) or our [Facebook page](http://facebook.com/wicklowmeeples). And feel free to share this with any family and/or friends who you think would be interested.
+We will be situated in the newly refurbished function room upstairs from 7.30pm until 11pm. We'll bring the games, so you just bring yourself.  There's a small charge of €5, not bad for an entire night's gaming!  This covers the venue cost, replacing damaged/lost components and any remainder goes into new games for the club.  If you think you can make it just let us know on our [Meetup page](https://www.meetup.com/Board-Game-Evening-Wicklow-Meeples/) or our [Facebook page](http://facebook.com/wicklowmeeples). And feel free to share this with any family and/or friends who you think would be interested.
 
 To quickly recap:
 
 - The Bridge Tavern, Bridge Street, Wicklow Town.
-- Tuesday, 17th of October
+- Tuesday, 7th of November
 - 7.30pm - 11pm
 - Only €5 to play
 
