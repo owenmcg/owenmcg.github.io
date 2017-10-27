@@ -16,6 +16,8 @@ But what about advice on starting a well rounded collection?  Well we're on hand
 
 ### Player Count
 
+
+
 Lets start with Player Count.  The number of people you regularly game with should be front and centre in your mind before you consider whether to purchase a game.  Having a load of party style multiplayer games is great, if you run or attend board game evenings with a large group, or you are entertaining family and friends on a regular basis.  If you mainly play games with one or two other people, then the party games will spend most of the year sitting on the shelf.  In this case the wisest course is to go for smaller player counts or at least go for games that play well at a wide range of player counts.
 
 ### Game Themes

@@ -16,21 +16,31 @@ But what about advice on starting a well rounded collection?  Well we're on hand
 
 ### Player Count
 
+![Player Count](http://www.wicklowmeeples.com/assets/images/collection-image-01.jpg)
+
 Lets start with Player Count.  The number of people you regularly game with should be front and centre in your mind before you consider whether to purchase a game.  Having a load of party style multiplayer games is great, if you run or attend board game evenings with a large group, or you are entertaining family and friends on a regular basis.  If you mainly play games with one or two other people, then the party games will spend most of the year sitting on the shelf.  In this case the wisest course is to go for smaller player counts or at least go for games that play well at a wide range of player counts.
 
 ### Game Themes
+
+![Player Count](http://www.wicklowmeeples.com/assets/images/collection-image-02.jpg)
 
 A lot of the time, who you are going to play games with will make a big difference to the theme of game you might want to go for. Not everyone is going to super excited about "Generic Fantasy Adventure Quest part IV", though some people will love that.  Getting a game with a theme you enjoy and that your regular gaming buddies relish is quite important.  But if you only stick to one theme you may be narrowing your gaming circle/opportunities.  Add some diversity in there and your collection will be all the better for it, and chances are you'll get to the gaming table more often.
 
 ### Game Length
 
+![Player Count](http://www.wicklowmeeples.com/assets/images/collection-image-03.jpg)
+
 Where does the time go?  I used to have hours of free time in my day, but between home life and work life I seem to have less and less of it these days.  So personally I appreciate games that I can play for 30-60mins and manage that gaming fix in a small time window.  Don't get me wrong, a 3 hour Fury of Dracula can be great fun, but I don't have that sort of time that often anymore.  But however much time you have to sink into this cardboard hobby, a mixture of game lengths is always a decent idea.
 
 ### Game Mechanics
 
+![Player Count](http://www.wicklowmeeples.com/assets/images/collection-image-04.jpg)
+
 Boardgame designers constantly play games and often 'borrow' new mechanics from other established titles, for their own games.  The result is that there are quite a few games that have a similar feel to them, sure they aren't identical but they scratch the same gaming itch so to speak.  So something else to question is "Do I need another bluffing/hidden movement/deck building game in my collection".   Variety is the spice of life, apparently.
 
 ### Budget
+
+![Player Count](http://www.wicklowmeeples.com/assets/images/collection-image-05.jpg)
 
 People's budgets will obviously vary, but I'm sure we could all do with spending less than we do on games.  I like to think that if a game costs €40 and I play it a few times with some friends or family, then it has already paid for itself in entertainment terms.  There are however some games on my shelf that have only had a single playthrough or worse, have never been played at all.  So the price/play ratio and subsequent value is something to think about.
 
