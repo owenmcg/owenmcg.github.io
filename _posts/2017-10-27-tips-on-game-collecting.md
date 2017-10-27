@@ -46,6 +46,8 @@ People's budgets will obviously vary, but I'm sure we could all do with spending
 
 However, there are quite a few avenues you can go down to try and keep a rein on your gaming expenditure.  There's a lot of Print and Play games available for free and with a standard deck of cards or a bag of dice there's a load of gaming combinations possible.  You could do much worse that checking out [this](https://goo.gl/gtVR57) excellent article about gaming for $10, from the fine folks (..and indeed community) over at "Shut Up and Sit Down".
 
+***
+
 So there you go, just 5 brief tips to keep in mind when starting a board game collection.  Hopefully it will be of some use to you as you succumb to this cardboard addiction.  If you want to try out some different game types, genres, mechanics, why not bring a friend or two down to our [next game night](https://www.meetup.com/Board-Game-Evening-Wicklow-Meeples/) and play something from our collection.  
 
 You can also check us out on our [Facebook page](http://facebook.com/wicklowmeeples) or on Twitter (@wicklowmeeples)
