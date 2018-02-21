@@ -26,7 +26,7 @@ I can't remember how many games it took before I finally won, having been given 
 
 ### Letting kids discover gaming
 
-I'm now 40 years old, and have a 5 year son.  And to me, it was important to allow him to discover the joy to be had from gaming.  Even when he was a 2 or 3 year old, I'd take out components, stack them up and let him knock them down.  Then we moved onto rolling dice, just for the fun of it.  Then playing simple card games etc.  At this stage he's now an avid young gamer, and any time I get a package delivered through the post his little face lights up with giddy anticipation and the hopeful question "Is it a new game Dad? Is it? Is it?".  
+I'm now 40 years old, and have a 5 year old son.  And to me, it was important to allow him to discover the joy to be had from gaming.  Even when he was a 2 or 3 year old, I'd take out components, stack them up and let him knock them down.  Then we moved onto rolling dice, just for the fun of it.  Then playing simple card games etc.  At this stage he's now an avid young gamer, and any time I get a package delivered through the post his little face lights up with giddy anticipation and the hopeful question "Is it a new game Dad? Is it? Is it?".  
 
 ![Kids Gaming](http://www.wicklowmeeples.com/assets/images/Kids-Gaming.jpg)
 
@@ -34,7 +34,7 @@ All kids want to 'win' every time, and he was no exception (nor was I at that ag
 
 ### Kid friendly games
 
-Often my son will look at my game shelf and ask to play something that's a bit too tricky, complicated or just plainly not suitable.  But there are a lot of games that work really well with younger kids.  Some of them Owen mentioned in his post on [gateway games](http://www.wicklowmeeples.com/beyond-monopoly-gateway) like "Kingdomino" and "King of Tokyo".  And Ticket to Ride has a simpler kids version called "Ticket to Ride: First Journey" which is very easy and good fun.  But plenty of games work just as well with kids as they do with adults, and dexterity based games are a real highlight here.  In our follow up post we'll got through a selection of some excellent kid friendly games which we'd recommend without hesitation.
+Often my son will look at my game shelf and ask to play something that's a bit too tricky, complicated or just plainly not suitable.  But there are a lot of games that work really well with younger kids.  Some of them Owen mentioned in his post on [gateway games](http://www.wicklowmeeples.com/beyond-monopoly-gateway) like "Kingdomino" and "King of Tokyo".  And Ticket to Ride has a simpler kids version called "Ticket to Ride: First Journey" which is very easy and good fun.  But plenty of games work just as well with kids as they do with adults, and dexterity based games are a real highlight here.  In our follow up post we'll go through a selection of some excellent kid friendly games which we'd recommend without hesitation.
 
 In the meantime, you can check us out on our [Facebook page](http://facebook.com/wicklowmeeples) or on Twitter (@wicklowmeeples).  
 
