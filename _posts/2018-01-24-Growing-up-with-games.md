@@ -12,7 +12,7 @@ logo: 'assets/images/ghost.png'
 
 
 
-I don't really remember the first board game I played as a kid, if I'm being honest.  I'm sure that after 'Snakes & Ladders' it was probably 'Monopoly', 'Game of Life' or 'Connect 4'. But they weren't games that really grabbed my attention or made any sort of lasting impresssion.  They weren't the formative gaming experiences that started me down this gaming path.
+I don't really remember the first board game I played as a kid, if I'm being honest, but it was probably 'Snake & Ladders' followed by one of 'Monopoly', 'Game of Life' or 'Connect 4'. But they weren't games that really grabbed my attention or made any sort of lasting impresssion.  They weren't the formative gaming experiences that started me down this gaming path.
 
 ### Good Habits
 
