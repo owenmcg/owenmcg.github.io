@@ -26,9 +26,9 @@ I can't remember how many games it took before I finally won, having been given 
 
 ### Letting kids discover gaming
 
-![Kids Gaming](http://www.wicklowmeeples.com/assets/images/Kids-Gaming.jpg)
-
 I'm now 40 years old, and have a 5 year son.  And to me, it was important to allow him to discover the joy to be had from gaming.  Even when he was a 2 or 3 year old, I'd take out components, stack them up and let him knock them down.  Then we moved onto rolling dice, just for the fun of it.  Then playing simple card games etc.  At this stage he's now an avid young gamer, and any time I get a package delivered through the post his little face lights up with giddy anticipation and the hopeful question "Is it a new game Dad? Is it? Is it?".  
+
+![Kids Gaming](http://www.wicklowmeeples.com/assets/images/Kids-Gaming.jpg)
 
 All kids want to 'win' every time, and he was no exception (nor was I at that age).  Like my grandad before me however, I don't 'Let' him win games.  I will sometimes give him clues that there might be a better move, but he has to find it himself.  In fairness, he can usually hold his own in most games I play with him anyway.  I've tried to show him that I'm happier to have played and lost than to not have played at all.  And our only rule is that regardless of who wins, we shake hands and say "Well played" with a smile.
 
