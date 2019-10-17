@@ -30,5 +30,10 @@ It's the 1920s, Mr. MacDowell, a gifted astrologer, detects a supernatural being
 
 In Mysterium all of the players take on the role of mediums, bar one. This last player is the ghost and their only means of communication with the mediums is through strange psychic dreams and by knocking on the table. All of the players (including the ghost) are working together to try and solve this age old murder and set the spirit to rest.
 
+### Run, fight or Die
+![Run, Fight or die](http://www.wicklowmeeples.com/assets/images/runfightordie.jpg)
+
+It's the zombie apocalypse you always knew would come and the undead horde is upon you. As you scavenge for loot and find fellow survivors only one thing is certain, you have three simple choices, run, fight or die!
+
 You can also check us out on our [Facebook page](http://facebook.com/wicklowmeeples) or on Twitter (@wicklowmeeples)
 
