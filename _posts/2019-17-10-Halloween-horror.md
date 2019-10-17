@@ -35,5 +35,10 @@ In Mysterium all of the players take on the role of mediums, bar one. This last 
 
 It's the zombie apocalypse you always knew would come and the undead horde is upon you. As you scavenge for loot and find fellow survivors only one thing is certain, you have three simple choices, run, fight or die!
 
+### Escape from the Aliens in Outer Space
+![Escape from the Aliens in Outer Space](http://www.wicklowmeeples.com/assets/images/escapealiens.jpg)
+
+You told Jones to keep his helmet on when he found the strange fungus on that abandoned mining craft you stumbled upon 16 days ago. Now, you are being hunted in the dark on your own ship, trying to make your way to an escape pod undetected. Those _things_ that used to be your crew mates stalk you as you try not to make a sound. Will you escape from the aliens in outer space?
+
 You can also check us out on our [Facebook page](http://facebook.com/wicklowmeeples) or on Twitter (@wicklowmeeples)
 
