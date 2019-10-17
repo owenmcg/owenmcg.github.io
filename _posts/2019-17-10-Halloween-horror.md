@@ -40,5 +40,9 @@ It's the zombie apocalypse you always knew would come and the undead horde is up
 
 You told Jones to keep his helmet on when he found the strange fungus on that abandoned mining craft you stumbled upon 16 days ago. Now, you are being hunted in the dark on your own ship, trying to make your way to an escape pod undetected. Those _things_ that used to be your crew mates stalk you as you try not to make a sound. Will you escape from the aliens in outer space?
 
-You can also check us out on our [Facebook page](http://facebook.com/wicklowmeeples) or on Twitter (@wicklowmeeples)
+The above games are just a sample of what we will have available to play on the night. Why not pop along and bring a friend with you. What's the worst that could happen...
+
+![Horrifying Night promo poster](http://www.wicklowmeeples.com/assets/images/horrifying-poster.jpg)
+
+You can also find us on our [Facebook page](http://facebook.com/wicklowmeeples), on [Twitter](https://twitter.com/wicklowmeeples?lang=en) (@wicklowmeeples) and on [Instagram](https://www.instagram.com/wicklowmeeples/) 
 
