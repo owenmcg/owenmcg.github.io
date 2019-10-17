@@ -40,6 +40,13 @@ It's the zombie apocalypse you always knew would come and the undead horde is up
 
 You told Jones to keep his helmet on when he found the strange fungus on that abandoned mining craft you stumbled upon 16 days ago. Now, you are being hunted in the dark on your own ship, trying to make your way to an escape pod undetected. Those _things_ that used to be your crew mates stalk you as you try not to make a sound. Will you escape from the aliens in outer space?
 
+### Fury of Dracula
+![Fury of Dracula](http://www.wicklowmeeples.com/assets/images/furyofdracula.jpg)
+
+Join the ranks of Van Helsing and Mina Harker as you band together to track down Count Dracula as he spreads his corruption across 19th Century Europe. Or take on the role of Dracula himself and try to remain unseen from this roving band of vampire hunters.
+
+### We don't bite
+
 The above games are just a sample of what we will have available to play on the night. Why not pop along and bring a friend with you. What's the worst that could happen...
 
 ![Horrifying Night promo poster](http://www.wicklowmeeples.com/assets/images/horrifying-poster.jpg)
