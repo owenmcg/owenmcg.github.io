@@ -32,7 +32,7 @@ Santorini is a really accessible abstract game which sees two players compete to
 
 
 ### Skull
-A pure bluffing game, up there with Liar's Dice and Poker.  In Skull, you get a hand of 4 coaster-like cards, three of them have a flower depcited and one has a skull.  Each turn you either place a card facedown into a stack in front of you, or challenge that you can reveal X number of cards from around the table, without revealing a skull.  The only snag is that they have to start by flipping your own facedown stack first... You weren't lying about what was in your own stack were you?  Win two challenges and you win the game. An absolute gem!
+A pure bluffing game, up there with Liar's Dice and Poker.  In Skull, you get a hand of 4 coaster-like cards, three of them have a flower depcited and one has a skull.  Each turn you either place a card facedown into a stack in front of you, or challenge that you can reveal X number of cards from around the table, without revealing a skull.  The only snag is that you have to start by flipping your own facedown stack first... You weren't lying about what was in your own stack were you?  Win two challenges and you win the game. An absolute gem!
 
 ![Skull](http://www.wicklowmeeples.com/assets/images/skull.jpg)
 
