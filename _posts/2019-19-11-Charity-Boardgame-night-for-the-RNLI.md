@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/cover02.jpg'
+cover: 'assets/images/cover2.jpg'
 title: Games for our RNLI boardgame night
 date:   2019-11-20 00:30:00
 tags: news
