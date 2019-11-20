@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/cover02.jpg'
 title: Games for our RNLI boardgame night
-date:   2019-11-19 23:00:00
+date:   2019-11-20 00:30:00
 tags: news
 subclass: 'post tag-test tag-content'
 categories: 'ian'
